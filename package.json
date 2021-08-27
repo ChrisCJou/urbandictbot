@@ -1,0 +1,12 @@
+{
+    "name": "urban_dict_bot",
+    "version": "1.0.0",
+    "description": "Urban Dictionary Bot",
+    "main": "bot.js",
+    "author": "Chris J",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "https": "^1.0.0",
+        "winston": "^3.3.3"
+    }
+}
